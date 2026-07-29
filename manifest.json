@@ -1,0 +1,13 @@
+{
+  "name": "tiklinux",
+  "short_name": "tiklinux",
+  "description": "أدوات بث TikTok المجانية من ibrahem",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080E10",
+  "theme_color": "#E02519",
+  "icons": [
+    { "src": "/tiklinux-logo.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/tiklinux-logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "tiklinux",
+  "version": "1.0.0",
+  "description": "أدوات بث TikTok المجانية من ibrahem",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["tiktok", "streaming", "tools", "arabic"],
+  "author": "ibrahem",
+  "license": "MIT"
+}
